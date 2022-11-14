@@ -8,5 +8,11 @@ public class FirstClassGit {
 	}
 		public void test() {
 			System.out.println("This is from local repo");
-		}
-}
+             }
+
+	        public void testTow() {
+			System.out.println("This is from Remot repo");                                                                                                      
+
+
+	}
+
